@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e2ec81fa.chunk.css",
+    "main.js": "/static/js/main.078007d4.chunk.js",
+    "main.js.map": "/static/js/main.078007d4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3e98f239.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3e98f239.js.map",
+    "static/js/2.029c8f25.chunk.js": "/static/js/2.029c8f25.chunk.js",
+    "static/js/2.029c8f25.chunk.js.map": "/static/js/2.029c8f25.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.e2ec81fa.chunk.css.map": "/static/css/main.e2ec81fa.chunk.css.map",
+    "static/js/2.029c8f25.chunk.js.LICENSE.txt": "/static/js/2.029c8f25.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/LabGrotesque-Regular.446ca450.woff",
+    "static/media/Vectorclose.beb7d290.svg": "/static/media/Vectorclose.beb7d290.svg",
+    "static/media/Vectormark.62a8ceae.svg": "/static/media/Vectormark.62a8ceae.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e98f239.js",
+    "static/js/2.029c8f25.chunk.js",
+    "static/css/main.e2ec81fa.chunk.css",
+    "static/js/main.078007d4.chunk.js"
+  ]
+}
