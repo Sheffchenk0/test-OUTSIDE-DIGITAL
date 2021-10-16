@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Sheffchenk0/test-OUTSIDE-DIGITAL/static/css/main.0af0ca74.chunk.css",
+    "main.js": "/Sheffchenk0/test-OUTSIDE-DIGITAL/static/js/main.13481243.chunk.js",
+    "main.js.map": "/Sheffchenk0/test-OUTSIDE-DIGITAL/static/js/main.13481243.chunk.js.map",
+    "runtime-main.js": "/Sheffchenk0/test-OUTSIDE-DIGITAL/static/js/runtime-main.b5b0662b.js",
+    "runtime-main.js.map": "/Sheffchenk0/test-OUTSIDE-DIGITAL/static/js/runtime-main.b5b0662b.js.map",
+    "static/js/2.64d660be.chunk.js": "/Sheffchenk0/test-OUTSIDE-DIGITAL/static/js/2.64d660be.chunk.js",
+    "static/js/2.64d660be.chunk.js.map": "/Sheffchenk0/test-OUTSIDE-DIGITAL/static/js/2.64d660be.chunk.js.map",
+    "index.html": "/Sheffchenk0/test-OUTSIDE-DIGITAL/index.html",
+    "static/css/main.0af0ca74.chunk.css.map": "/Sheffchenk0/test-OUTSIDE-DIGITAL/static/css/main.0af0ca74.chunk.css.map",
+    "static/js/2.64d660be.chunk.js.LICENSE.txt": "/Sheffchenk0/test-OUTSIDE-DIGITAL/static/js/2.64d660be.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Sheffchenk0/test-OUTSIDE-DIGITAL/static/media/LabGrotesque-Regular.446ca450.woff",
+    "static/media/Vectorclose.beb7d290.svg": "/Sheffchenk0/test-OUTSIDE-DIGITAL/static/media/Vectorclose.beb7d290.svg",
+    "static/media/Vectormark.62a8ceae.svg": "/Sheffchenk0/test-OUTSIDE-DIGITAL/static/media/Vectormark.62a8ceae.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5b0662b.js",
+    "static/js/2.64d660be.chunk.js",
+    "static/css/main.0af0ca74.chunk.css",
+    "static/js/main.13481243.chunk.js"
+  ]
+}
