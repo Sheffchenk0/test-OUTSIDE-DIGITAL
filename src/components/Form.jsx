@@ -28,7 +28,7 @@ const Form = ({ setTaxes, setSalary }) => {
     <form onSubmit={handleSubmit(onCount)} className="input-block">
       <div className="subtitle">Ваша зарплата в месяц</div>
       <input
-        {...register('sum', { required: true, maxLength: 7, pattern: /^[0-9]{5,6}$/ })}
+        {...register('sum', { required: true, maxLength: 7, pattern: /^[1-9][0-9]{4,5}$/ })}
         type="text"
         className={classNames({ error: !!errors.sum })}
         placeholder="Введите данные"
